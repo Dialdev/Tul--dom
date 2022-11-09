@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001657270478';
+$dateexpire = '001657274078';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:16:{s:23:"element_redirect_filter";a:1:{s:4:"rows";s:1:"0";}s:23:"t_currency_rates_filter";a:1:{s:4:"rows";s:1:"0";}s:40:"tbl_b_hlsys_marking_code_group_filter_id";a:1:{s:4:"rows";s:1:"0";}s:26:"tbl_b_vid_plitki_filter_id";a:1:{s:4:"rows";s:1:"0";}s:33:"tbl_delivery_request_batch_filter";a:1:{s:4:"rows";s:1:"0";}s:59:"tbl_iblock_el_search280fbc11ab30c5c0fffd84af3d9c705a_filter";a:1:{s:4:"rows";s:2:"id";}s:59:"tbl_iblock_el_search2e5f6d5e683d4e88cd91709128da68b6_filter";a:1:{s:4:"rows";s:9:"IBLOCK_ID";}s:59:"tbl_iblock_el_search2e86daf14b5a33de1467bbc294502c39_filter";a:1:{s:4:"rows";s:2:"id";}s:59:"tbl_iblock_el_search4b87f1aa08f6462b9c03026cf2f6d047_filter";a:1:{s:4:"rows";s:2:"id";}s:59:"tbl_iblock_el_search50bcac3a6af71b8b0c33eefd4b247be2_filter";a:1:{s:4:"rows";s:2:"id";}s:59:"tbl_iblock_el_search725ab059a6f15d0c0a15a29f8b4758dc_filter";a:1:{s:4:"rows";s:2:"id";}s:59:"tbl_iblock_el_search7c05547ee5e0d64f7478093e266127c1_filter";a:1:{s:4:"rows";s:9:"IBLOCK_ID";}s:65:"tbl_iblock_section_search_e2dc6c48c56de466f6d13781796abf3d_filter";a:1:{s:4:"rows";s:9:"IBLOCK_ID";}s:23:"tbl_main_message_filter";a:1:{s:4:"rows";s:8:"6,miss-0";}s:33:"tbl_max_color_reference_filter_id";a:1:{s:4:"rows";s:1:"0";}s:26:"tbl_profile_history_filter";a:2:{s:4:"rows";s:12:"find_user_id";s:11:"styleFolded";s:1:"N";}}}';
+return true;
+?>

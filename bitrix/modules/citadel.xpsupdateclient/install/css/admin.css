@@ -1,0 +1,123 @@
+
+.hidden {
+    display: none;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-4 {
+    width: 45%;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.json_iblock_props {
+    padding-top: 10px;
+}
+
+.json_iblock_props {
+    display: none;
+}
+
+.json_iblock_props span {
+    display: inline-block;
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: #c7d6da;
+}
+
+.json_iblock_props span label {
+    cursor: pointer;
+}
+
+.json_iblock_props span.checked {
+    background-color: #97c004;
+}
+
+div.json_iblock_cont {
+    border: 1px solid;
+    border-color: #87919c #959ea9 #9ea7b1 #959ea9;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+div.json_iblock_cont_title {
+    background-color: #e0e8ea;
+    color: #4b6267;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center !important;
+    text-shadow: 0 1px #fff;
+    padding: 10px;
+}
+
+div.json_iblock {
+    border: 1px solid;
+    border-color: #87919c #959ea9 #9ea7b1 #959ea9;
+    border-radius: 0;
+    border-top-width: 0;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+div.json_iblock.first {
+    border-top-width: 1px;
+    margin-top: 10px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+div.json_iblock.last {
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+#btn_new_json_iblock {
+    margin-top: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+table.client_sync_table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.client_sync_table td, table.client_sync_table th {
+    padding: 10px;
+    border: 1px solid;
+    border-color: #87919c #959ea9 #9ea7b1 #959ea9;
+}
+
+table.client_sync_table th {
+    background-color: #e0e8ea;
+}
+
+table.client_sync_table th.title {
+    font-size: 18px;
+    font-weight: normal;
+    background: url("/bitrix/panel/main/images/filter-bg.gif") repeat scroll 0 0;
+}
+
+table.client_sync_property_table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 0;
+}
+
+table.client_sync_property_table td {
+    padding: 5px;
+    border: 0;
+}

@@ -1,0 +1,19 @@
+<?php
+$MESS["CLIENT_TABLE_ID_FIELD"] = "ID";
+$MESS["CLIENT_TABLE_SERVER_KEY_FIELD"] = "Ключ доступа";
+$MESS["CLIENT_TABLE_SERVER_URL_FIELD"] = "Сайт RESTful API";
+$MESS["CLIENT_TABLE_DESCRIPTION_FIELD"] = "Описание";
+$MESS["CLIENT_TABLE_DATE_CREATE_FIELD"] = "Дата создания";
+$MESS["CLIENT_TABLE_DATE_UPDATE_FIELD"] = "Дата обновления";
+$MESS["CLIENT_TABLE_ACTIVE_FIELD"] = "Активность";
+$MESS["CLIENT_TABLE_CREATED_BY_ID_FIELD"] = "Кем создан";
+$MESS["CLIENT_TABLE_UPDATED_BY_ID_FIELD"] = "Кем изменен";
+$MESS["CLIENT_TABLE_DATE_LAST_SYNC_FIELD"] = "Дата последней синхронизации";
+
+$MESS["CLIENT_TABLE_SERVER_IBLOCK_ID_FIELD"] = "Инфоблок сервера";
+$MESS["CLIENT_TABLE_SERVER_IBLOCK_KEY_ID_FIELD"] = "Ключ ИБ сервера";
+$MESS["CLIENT_TABLE_CLIENT_IBLOCK_ID_FIELD"] = "Инфоблок клиента";
+$MESS["CLIENT_TABLE_CLIENT_IBLOCK_KEY_ID_FIELD"] = "Ключ ИБ клиента";
+$MESS["CLIENT_TABLE_IBLOCK_PROPERTIES_JSON_FIELD"] = "Сопоставление свойств";
+
+$MESS["CLIENT_TABLE_NOT_URL"] = 'Поле "#FIELD#" не является правильным URL';

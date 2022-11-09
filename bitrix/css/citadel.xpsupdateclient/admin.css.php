@@ -1,0 +1,1 @@
+<? header("Content-type: text/css; charset: UTF-8"); echo file_get_contents("/var/www/u0004063/data/www/tuldom.ru/bitrix/modules/citadel.xpsupdateclient/install/css/admin.css");

@@ -1,0 +1,212 @@
+User-Agent: *
+Disallow: /*index.php$
+Disallow: /bitrix/
+Disallow: /auth/
+Disallow: /personal/
+Disallow: /upload/
+Disallow: /search/
+Disallow: /*/search/
+Disallow: /*/slide_show/
+Disallow: /*/gallery/*order=*
+Disallow: /*?print=
+Disallow: /*&print=
+Disallow: /*register=
+Disallow: /*forgot_password=
+Disallow: /*change_password=
+Disallow: /*login=
+Disallow: /*logout=
+Disallow: /*auth=
+Disallow: /*?action=
+Disallow: /*action=ADD_TO_COMPARE_LIST
+Disallow: /*action=DELETE_FROM_COMPARE_LIST
+Disallow: /*action=ADD2BASKET
+Disallow: /*action=BUY
+Disallow: /*bitrix_*=
+Disallow: /*backurl=*
+Disallow: /*BACKURL=*
+Disallow: /*back_url=*
+Disallow: /*BACK_URL=*
+Disallow: /*back_url_admin=*
+Disallow: /*print_course=Y
+Disallow: /*COURSE_ID=
+Disallow: /*?COURSE_ID=
+Disallow: /*PAGE_NAME=user_post
+Disallow: /*PAGE_NAME=detail_slide_show
+Disallow: /*PAGE_NAME=search
+Disallow: /*PAGE_NAME=user_post
+Disallow: /*PAGE_NAME=detail_slide_show
+Disallow: /*SHOWALL
+Disallow: /*show_all=
+Disallow: /*ajax/
+Disallow: /*catalog/compare.php
+Disallow: /*rss/
+Disallow: *CLEAR_CACHE=
+Disallow: /*/filter/clear/apply/
+Disallow: *clear_cache=Y
+Allow: /bitrix/*.css
+Allow: /bitrix/*.js
+Allow: /upload/*.jpg
+Allow: /upload/*.jpeg
+Allow: /upload/*.gif
+Allow: /upload/*.png
+Allow: /upload/*.pdf
+Allow: /upload/*.js
+Allow: /upload/*.css
+
+Clean-param: oid
+Clean-param: matchtype /*/
+Clean-param: etext /*/
+Clean-param: linerow /*/
+Clean-param: q /*/
+Clean-param: name /*/
+Clean-param: display /*/
+Clean-param: ORDER_ID
+Clean-param: id
+Clean-param: form_id
+Clean-param: sort
+Clean-param: data-trigger
+Clean-param: product
+
+Sitemap: https://tuldom.ru/sitemap.xml
+
+User-Agent: Yandex
+Disallow: /*index.php$
+Disallow: /bitrix/
+Disallow: /auth/
+Disallow: /personal/
+Disallow: /upload/
+Disallow: /search/
+Disallow: /*/search/
+Disallow: /*/slide_show/
+Disallow: /*/gallery/*order=*
+Disallow: /*?print=
+Disallow: /*&print=
+Disallow: /*register=
+Disallow: /*forgot_password=
+Disallow: /*change_password=
+Disallow: /*login=
+Disallow: /*logout=
+Disallow: /*auth=
+Disallow: /*?action=
+Disallow: /*action=ADD_TO_COMPARE_LIST
+Disallow: /*action=DELETE_FROM_COMPARE_LIST
+Disallow: /*action=ADD2BASKET
+Disallow: /*action=BUY
+Disallow: /*bitrix_*=
+Disallow: /*backurl=*
+Disallow: /*BACKURL=*
+Disallow: /*back_url=*
+Disallow: /*BACK_URL=*
+Disallow: /*back_url_admin=*
+Disallow: /*print_course=Y
+Disallow: /*COURSE_ID=
+Disallow: /*?COURSE_ID=
+Disallow: /*PAGE_NAME=user_post
+Disallow: /*PAGE_NAME=detail_slide_show
+Disallow: /*PAGE_NAME=search
+Disallow: /*PAGE_NAME=user_post
+Disallow: /*PAGE_NAME=detail_slide_show
+Disallow: /*SHOWALL
+Disallow: /*show_all=
+Disallow: /*ajax/
+Disallow: /*catalog/compare.php
+Disallow: /*rss/
+Disallow: *?CLEAR_CACHE=
+Disallow: /*/filter/clear/apply/
+Disallow: *clear_cache=Y
+Allow: /bitrix/*.css
+Allow: /bitrix/*.js
+Allow: /upload/*.jpg
+Allow: /upload/*.jpeg
+Allow: /upload/*.gif
+Allow: /upload/*.png
+Allow: /upload/*.pdf
+Allow: /upload/*.js
+Allow: /upload/*.css
+
+Clean-param: oid
+Clean-param: matchtype /*/
+Clean-param: etext /*/
+Clean-param: linerow /*/
+Clean-param: q /*/
+Clean-param: name /*/
+Clean-param: display /*/
+Clean-param: ORDER_ID
+Clean-param: id
+Clean-param: form_id
+Clean-param: sort
+Clean-param: data-trigger
+Clean-param: product
+
+Sitemap: https://tuldom.ru/sitemap.xml
+
+User-Agent: GoogleBot
+Disallow: /*index.php$
+Disallow: /bitrix/
+Disallow: /auth/
+Disallow: /personal/
+Disallow: /upload/
+Disallow: /search/
+Disallow: /*/search/
+Disallow: /*/slide_show/
+Disallow: /*/gallery/*order=*
+Disallow: /*?print=
+Disallow: /*&print=
+Disallow: /*register=
+Disallow: /*forgot_password=
+Disallow: /*change_password=
+Disallow: /*login=
+Disallow: /*logout=
+Disallow: /*auth=
+Disallow: /*?action=
+Disallow: /*action=ADD_TO_COMPARE_LIST
+Disallow: /*action=DELETE_FROM_COMPARE_LIST
+Disallow: /*action=ADD2BASKET
+Disallow: /*action=BUY
+Disallow: /*bitrix_*=
+Disallow: /*backurl=*
+Disallow: /*BACKURL=*
+Disallow: /*back_url=*
+Disallow: /*BACK_URL=*
+Disallow: /*back_url_admin=*
+Disallow: /*print_course=Y
+Disallow: /*COURSE_ID=
+Disallow: /*?COURSE_ID=
+Disallow: /*PAGE_NAME=user_post
+Disallow: /*PAGE_NAME=detail_slide_show
+Disallow: /*PAGE_NAME=search
+Disallow: /*PAGE_NAME=user_post
+Disallow: /*PAGE_NAME=detail_slide_show
+Disallow: /*SHOWALL
+Disallow: /*show_all=
+Disallow: /*ajax/
+Disallow: /*catalog/compare.php
+Disallow: /*rss/
+Disallow: *CLEAR_CACHE=
+Disallow: /*/filter/clear/apply/
+Disallow: *clear_cache=Y
+Allow: /bitrix/*.css
+Allow: /bitrix/*.js
+Allow: /upload/*.jpg
+Allow: /upload/*.jpeg
+Allow: /upload/*.gif
+Allow: /upload/*.png
+Allow: /upload/*.pdf
+Allow: /upload/*.js
+Allow: /upload/*.css
+
+Clean-param: oid
+Clean-param: matchtype /*/
+Clean-param: etext /*/
+Clean-param: linerow /*/
+Clean-param: q /*/
+Clean-param: name /*/
+Clean-param: display /*/
+Clean-param: ORDER_ID
+Clean-param: id
+Clean-param: form_id
+Clean-param: sort
+Clean-param: data-trigger
+Clean-param: product
+
+Sitemap: https://tuldom.ru/sitemap.xml

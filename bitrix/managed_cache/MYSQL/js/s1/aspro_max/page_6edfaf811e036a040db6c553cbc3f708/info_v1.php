@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/aspro_max/js/phoneorlogin.min.js" => "15853646733400",]; ?>

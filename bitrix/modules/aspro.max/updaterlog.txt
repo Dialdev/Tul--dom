@@ -1,0 +1,266 @@
+
+06.12.2019 09:17:41 START UPDATE 1.0.0 -> 1.0.1
+
+
+06.12.2019 09:17:43 START UPDATE 1.0.1 -> 1.0.2
+
+
+28.03.2020 06:04:33 START UPDATE 1.0.2 -> 1.1.0
+
+28.03.2020 06:04:33 Update /ajax/delivery.php
+28.03.2020 06:04:33 Update /ajax/fast_view.php
+28.03.2020 06:04:33 Update /ajax/form.php
+28.03.2020 06:04:33 Add /ajax/fastViewNav.php
+28.03.2020 06:04:33 Update  /include/detail.linked_products_block.php
+28.03.2020 06:04:33 Update /include/footer_include/top_footer.php
+28.03.2020 06:04:33 Update /ajax/goals.php
+28.03.2020 06:04:33 Update /ajax/js_item_detail.php
+28.03.2020 06:04:33 Update /ajax/marketing.php
+28.03.2020 06:04:33 Update /ajax/productStoreAmount.php
+28.03.2020 06:04:33 Update /form/index.php
+28.03.2020 06:04:33 Update /include/contacts-site-map.php
+28.03.2020 06:04:33 Update /contacts/page_contacts_1.php
+28.03.2020 06:04:33 Update /include/mainpage/components/catalog_tab/type_1.php
+28.03.2020 06:04:33 Update /include/mainpage/components/catalog_tab/type_2.php
+28.03.2020 06:04:33 IBLOCK_TYPE: 4. Add REGION_TAG_YANDEX_MAP property=1962
+28.03.2020 06:04:33 IBLOCK_TYPE: 4. Add REGION_TAG_CONTACT_IMG property=1963
+28.03.2020 06:04:33 IBLOCK_TYPE: 4. Add REGION_TAG_CONTACT_TEXT property=1964
+28.03.2020 06:04:33 IBLOCK_TYPE: 4. Add REGION_TAG_SHEDULLE property=1965
+28.03.2020 06:04:34 Create iblock aspro_max_faq
+
+28.03.2020 06:04:34 Update info/faq/index.php
+
+28.03.2020 06:04:34 delete user_field uf_region
+
+28.03.2020 06:04:35 Create user_field uf_region
+
+28.03.2020 06:04:35 IBLOCK_TYPE: 24. Add EXTENDED_REVIEWS_COUNT property=1979
+28.03.2020 06:04:35 IBLOCK_TYPE: 24. Add EXTENDED_REVIEWS_RAITING property=1980
+28.03.2020 06:04:35 IBLOCK_TYPE: 25. Add TABLET_IMAGE property=1981
+
+28.03.2020 06:04:36 START UPDATE 1.1.0 -> 1.1.1
+
+28.03.2020 06:04:36 Update /info/brands/index.php
+28.03.2020 06:04:36 Update /bitrix/templates/aspro_max/js/custom.js
+
+28.03.2020 06:04:37 START UPDATE 1.1.1 -> 1.1.2
+
+28.03.2020 06:04:37 Update /ajax/productStoreAmountCompact.php
+28.03.2020 06:04:37 Update /bitrix/templates/aspro_max/js/custom.js
+
+28.03.2020 06:04:38 START UPDATE 1.1.2 -> 1.1.3
+
+28.03.2020 06:04:39 Update /ajax/item.php
+28.03.2020 06:04:39 Update  /include/detail.linked_products_block.php
+28.03.2020 06:04:39 Update  /include/footer/subscribe.php
+
+28.03.2020 06:04:40 START UPDATE 1.1.3 -> 1.1.4
+
+28.03.2020 06:04:40 Update /ajax/js_item_detail.php
+28.03.2020 06:04:40 Update /ajax/fast_view.php
+28.03.2020 06:04:40 Update /ajax/productStoreAmountCompact.php
+28.03.2020 06:04:40 Update  /include/detail.linked_products_block.php
+
+28.03.2020 06:04:42 START UPDATE 1.1.4 -> 1.2.0
+
+28.03.2020 06:04:42 Update /ajax/fastViewNav.php
+28.03.2020 06:04:42 Update /ajax/delivery.php
+28.03.2020 06:04:42 Update /catalog/.left.menu_ext.php
+28.03.2020 06:04:42 IBLOCK_TYPE: 112. Add MODAL_TYPE property=1982
+28.03.2020 06:04:42 IBLOCK_TYPE: 112. Add HIDE_TITLE property=1983
+28.03.2020 06:04:42 IBLOCK_TYPE: 112. Add POSITION property=1984
+28.03.2020 06:04:42 FINISH UPDATE 1.1.4 -> 1.2.0
+
+
+29.06.2020 00:59:19 START UPDATE 1.2.0 -> 1.2.1
+
+29.06.2020 00:59:21 Update /.top_catalog_wide.menu_ext.php
+29.06.2020 00:59:21 Update /indexblocks_index1.php
+29.06.2020 00:59:21 Update /ajax/js_item_detail.php
+29.06.2020 00:59:21 Update /ajax/showBasketHover.php
+29.06.2020 00:59:21 Update /ajax/subscribe_news.php
+29.06.2020 00:59:21 Update /include/footer/site-search.php
+29.06.2020 00:59:21 Update /include/top_page/search.title.catalog.php
+29.06.2020 00:59:21 Add /include/mainpage/components/lookbooks/
+29.06.2020 00:59:21 Add /lookbooks/
+29.06.2020 00:59:22 FINISH UPDATE 1.2.0 -> 1.2.1
+
+
+29.06.2020 00:59:23 START UPDATE 1.2.1 -> 1.2.2
+
+29.06.2020 00:59:23 Update /include/footer/site-search.php
+29.06.2020 00:59:23 Update /include/top_page/search.title.catalog.php
+29.06.2020 00:59:23 FINISH UPDATE 1.2.1 -> 1.2.2
+
+
+29.06.2020 00:59:25 START UPDATE 1.2.2 -> 1.2.3
+
+29.06.2020 00:59:25 Update /form/index.php
+29.06.2020 00:59:25 FINISH UPDATE 1.2.2 -> 1.2.3
+
+
+29.06.2020 00:59:26 START UPDATE 1.2.3 -> 1.2.4
+
+29.06.2020 00:59:27 Update /ajax/fastViewNav.php
+29.06.2020 00:59:27 Update /ajax/js_item_detail.php
+29.06.2020 00:59:27 Update /ajax/subscribe_news.php
+29.06.2020 00:59:27 Update /include/mainpage/components/instagramm/type_1.php
+29.06.2020 00:59:27 Update /include/mainpage/components/instagramm/type_2.php
+29.06.2020 00:59:27 Update /include/mainpage/components/instagramm/type_3.php
+29.06.2020 00:59:27 Update /include/mainpage/components/instagramm/type_4.php
+29.06.2020 00:59:27 Update /include/mainpage/components/instagramm/type_5.php
+29.06.2020 00:59:27 Update /include/mainpage/components/instagramm/type_5.php
+29.06.2020 00:59:27 IBLOCK_TYPE: 17. Add FILTER_NEW property=2028
+29.06.2020 00:59:27 FINISH UPDATE 1.2.3 -> 1.2.4
+
+
+29.06.2020 00:59:28 START UPDATE 1.2.4 -> 1.2.5
+
+29.06.2020 00:59:28 FINISH UPDATE 1.2.4 -> 1.2.5
+
+
+29.06.2020 00:59:28 START UPDATE 1.2.5 -> 1.2.6
+
+29.06.2020 00:59:29 FINISH UPDATE 1.2.5 -> 1.2.6
+
+
+29.06.2020 00:59:30 START UPDATE 1.2.6 -> 1.2.7
+
+29.06.2020 00:59:30 Update /ajax/showBasketHover.php
+29.06.2020 00:59:30 Update /ajax/basket_fly.php
+29.06.2020 00:59:30 Update /form/index.php
+29.06.2020 00:59:30 Update /include/detail.linked_products_block.php
+29.06.2020 00:59:30 FINISH UPDATE 1.2.6 -> 1.2.7
+
+
+29.06.2020 00:59:32 START UPDATE 1.2.7 -> 1.2.8
+
+29.06.2020 00:59:33 Update /ajax/js_item_detail.php
+29.06.2020 00:59:33 Update /projects/.left.menu_ext.php
+29.06.2020 00:59:33 Update /services/.left.menu_ext.php
+29.06.2020 00:59:33 FINISH UPDATE 1.2.7 -> 1.2.8
+
+
+24.07.2020 19:04:43 START UPDATE 1.2.8 -> 1.2.9
+
+24.07.2020 19:04:45 Update /bitrix/templates/aspro_max/header.php
+24.07.2020 19:04:45 Update /ajax/js_item_detail.php
+24.07.2020 19:04:45 Update /services/.left.menu_ext.php
+24.07.2020 19:04:45 FINISH UPDATE 1.2.8 -> 1.2.9
+
+
+24.07.2020 19:04:47 START UPDATE 1.2.9 -> 1.2.10
+
+24.07.2020 19:04:47 FINISH UPDATE 1.2.9 -> 1.2.10
+
+
+24.07.2020 19:04:49 START UPDATE 1.2.10 -> 1.3.0
+
+24.07.2020 19:04:50 Update /catalog/.left.menu_ext.php
+24.07.2020 19:04:50 Update /services/.left.menu_ext.php
+24.07.2020 19:04:50 Update /projects/.left.menu_ext.php
+24.07.2020 19:04:50 Update /indexblocks_index1.php
+24.07.2020 19:04:50 Update /ajax/storiesInfo.php
+24.07.2020 19:04:50 Update /include/top_page/search.title.mobile.php
+24.07.2020 19:04:50 Update /include/mainpage/components/blog/type_1.php
+24.07.2020 19:04:50 Update /include/mainpage/components/blog/type_2.php
+24.07.2020 19:04:50 Update /include/mainpage/components/blog/type_3.php
+24.07.2020 19:04:50 Update /include/mainpage/components/blog/type_4.php
+24.07.2020 19:04:50 Update /include/mainpage/components/blog/type_5.php
+24.07.2020 19:04:50 Update /include/mainpage/components/blog/type_6.php
+24.07.2020 19:04:50 Update /include/mainpage/components/news/item_md_img.php
+24.07.2020 19:04:50 Update /include/mainpage/components/news/item_no_img.php
+24.07.2020 19:04:50 Update /include/mainpage/components/news/item_no_img_with_text.php
+24.07.2020 19:04:50 Update /include/mainpage/components/news/item_small_img.php
+24.07.2020 19:04:50 Update /include/mainpage/components/news/item_small_img_with_text.php
+24.07.2020 19:04:50 Update /include/mainpage/components/lookbooks/type_1.php
+24.07.2020 19:04:50 Update /include/mainpage/components/lookbooks/type_2.php
+24.07.2020 19:04:50 Update /include/mainpage/components/lookbooks/type_3.php
+24.07.2020 19:04:50 Update /include/mainpage/components/lookbooks/type_4.php
+24.07.2020 19:04:50 Update /include/mainpage/components/collections/bg_img.php
+24.07.2020 19:04:50 Update /include/mainpage/components/collections/bg_img_with_text.php
+24.07.2020 19:04:50 Update /include/mainpage/components/collections/grey_img.php
+24.07.2020 19:04:50 Update /include/mainpage/components/collections/grey_img_with_text.php
+24.07.2020 19:04:50 Update /include/mainpage/components/collections/normal_img.php
+24.07.2020 19:04:50 Update /include/mainpage/components/tizers/five_item.php
+24.07.2020 19:04:50 Update /include/mainpage/components/tizers/four_item.php
+24.07.2020 19:04:50 Update /include/mainpage/components/tizers/four_item_left_icon.php
+24.07.2020 19:04:50 Update /include/mainpage/components/tizers/four_item_left_text.php
+24.07.2020 19:04:50 Update /include/mainpage/components/tizers/three_item_left_icon.php
+24.07.2020 19:04:50 Update /include/mainpage/components/tizers/three_item_left_icon_with_text.php
+24.07.2020 19:04:50 Update /include/mainpage/components/sale/block_2_nav.php
+24.07.2020 19:04:50 Update /include/mainpage/components/sale/block_3_bg.php
+24.07.2020 19:04:50 Update /include/mainpage/components/sale/block_3_lg_img.php
+24.07.2020 19:04:50 Update /include/mainpage/components/sale/block_3_md_text_img.php
+24.07.2020 19:04:50 Update /include/mainpage/components/sale/block_4_bg.php
+24.07.2020 19:04:50 Update /include/mainpage/components/sale/block_4_md_img.php
+24.07.2020 19:04:50 Update /include/mainpage/components/sale/block_4_round_img.php
+24.07.2020 19:04:50 Update /landings/index.php
+24.07.2020 19:04:50 IBLOCK_TYPE: 16. Add LINK_GOODS_SECTIONS property=2062
+24.07.2020 19:04:52 Update /include/mainpage/components/stories/type_1.php
+24.07.2020 19:04:52 Update /include/mainpage/components/stories/type_2.php
+24.07.2020 19:04:52 FINISH UPDATE 1.2.10 -> 1.3.0
+
+
+15.08.2020 16:26:21 START UPDATE 1.3.0 -> 1.3.1
+
+15.08.2020 16:26:22 Update /include/detail.linked_products_block.php
+15.08.2020 16:26:22 Update /ajax/form.php
+15.08.2020 16:26:22 Update /include/mainpage/components/stories/type_1.php
+15.08.2020 16:26:22 Update /include/mainpage/components/stories/type_2.php
+15.08.2020 16:26:22 FINISH UPDATE 1.3.0 -> 1.3.1
+
+
+14.09.2020 14:31:57 START UPDATE 1.3.1 -> 1.3.2
+
+14.09.2020 14:31:58 FINISH UPDATE 1.3.1 -> 1.3.2
+
+
+14.09.2020 14:31:59 START UPDATE 1.3.2 -> 1.4.0
+
+14.09.2020 14:32:00 installed smartseo
+14.09.2020 14:32:00 added ShareBasketTable
+14.09.2020 14:32:00 added ShareBasketItemTable
+14.09.2020 14:32:00 Update /ajax/form.php
+14.09.2020 14:32:00 Update /ajax/download_basket.php
+14.09.2020 14:32:00 Update /ajax/share_basket.php
+14.09.2020 14:32:00 Update /form/index.php
+14.09.2020 14:32:00 Update /include/comp_basket_file_wrapper.php
+14.09.2020 14:32:00 Update /ajax/delivery.php
+14.09.2020 14:32:00 Update /include/comp_catalog_delivery.php
+14.09.2020 14:32:00 Update /include/sharebasket_actual_hint.php
+14.09.2020 14:32:00 Update /include/sharebasket_before_text.php
+14.09.2020 14:32:00 Add /sharebasket/
+14.09.2020 14:32:00 Add urlrewrite /sharebasket/
+14.09.2020 14:32:00 Update /ajax/js_item_detail.php
+14.09.2020 14:32:00 FINISH UPDATE 1.3.2 -> 1.4.0
+
+
+03.11.2020 11:37:04 START UPDATE 1.4.0 -> 1.4.1
+
+03.11.2020 11:37:06 Update /include/detail.linked_products_block.php
+03.11.2020 11:37:06 FINISH UPDATE 1.4.0 -> 1.4.1
+
+
+03.11.2020 11:37:07 START UPDATE 1.4.1 -> 1.4.2
+
+03.11.2020 11:37:08 Update /page_blocks/footer/footer_1.php
+03.11.2020 11:37:08 Update /page_blocks/footer/footer_2.php
+03.11.2020 11:37:08 Update /page_blocks/footer/footer_5.php
+03.11.2020 11:37:08 Update /page_blocks/footer/footer_6.php
+03.11.2020 11:37:08 Update /page_blocks/footer/footer_7.php
+03.11.2020 11:37:08 Update /page_blocks/footer/footer_8.php
+03.11.2020 11:37:08 Update /include/footer/subscribe.php
+03.11.2020 11:37:08 FINISH UPDATE 1.4.1 -> 1.4.2
+
+
+03.11.2020 11:37:08 START UPDATE 1.4.2 -> 1.4.3
+
+03.11.2020 11:37:08 FINISH UPDATE 1.4.2 -> 1.4.3
+
+
+03.11.2020 11:37:09 START UPDATE 1.4.3 -> 1.4.4
+
+03.11.2020 11:37:10 Update /ajax/form.php
+03.11.2020 11:37:10 FINISH UPDATE 1.4.3 -> 1.4.4
+

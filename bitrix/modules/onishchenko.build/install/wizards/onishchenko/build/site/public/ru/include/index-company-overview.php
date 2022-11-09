@@ -1,0 +1,2 @@
+<h2 class="box-header">COMPANY OVERVIEW</h2>
+<p class="description align-center">We can help you with everything from an oil change to an engine change.<br>We can handle any problem on both foreign and domestic vehicles.</p>

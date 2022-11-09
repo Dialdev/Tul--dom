@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<КоммерческаяИнформация ВерсияСхемы="2.021" ДатаФормирования="2018-01-25T01:14:12">
+	<Классификатор>
+		<Ид>video</Ид>
+		<Наименование>Статьи</Наименование>
+		<Свойства>
+			<Свойство>
+				<Ид>CML2_ACTIVE</Ид>
+				<Наименование>БитриксАктивность</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_CODE</Ид>
+				<Наименование>Символьный код</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_SORT</Ид>
+				<Наименование>Сортировка</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_ACTIVE_FROM</Ид>
+				<Наименование>Начало активности</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_ACTIVE_TO</Ид>
+				<Наименование>Окончание активности</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_PREVIEW_TEXT</Ид>
+				<Наименование>Анонс</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_DETAIL_TEXT</Ид>
+				<Наименование>Описание</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_PREVIEW_PICTURE</Ид>
+				<Наименование>Картинка анонса</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>54</Ид>
+				<Наименование>Ссылка на видео из ютуб</Наименование>
+				<Множественное>false</Множественное>
+				<БитриксСортировка>500</БитриксСортировка>
+				<БитриксКод>YOUTUBE</БитриксКод>
+				<БитриксТипСвойства>S</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>L</БитриксТипСписка>
+				<БитриксТипыФайлов></БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+		</Свойства>
+		<СвойстваЭлементов>
+			<Свойство>
+				<Ид>54</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения>F</ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+		</СвойстваЭлементов>
+		<Группы>
+			<Группа>
+				<Ид>26</Ид>
+				<Наименование>Дизайн интерьера</Наименование>
+				<БитриксАктивность>true</БитриксАктивность>
+				<БитриксСортировка>500</БитриксСортировка>
+				<БитриксКод>dizayn_interera</БитриксКод>
+				<БитриксКартинка></БитриксКартинка>
+				<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+				<Группы>
+				</Группы>
+			</Группа>
+			<Группа>
+				<Ид>27</Ид>
+				<Наименование>Ремонт</Наименование>
+				<БитриксАктивность>true</БитриксАктивность>
+				<БитриксСортировка>500</БитриксСортировка>
+				<БитриксКод>remont</БитриксКод>
+				<БитриксКартинка></БитриксКартинка>
+				<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+				<Группы>
+				</Группы>
+			</Группа>
+		</Группы>
+	</Классификатор>
+	<Каталог>
+		<Ид>video</Ид>
+		<ИдКлассификатора>video</ИдКлассификатора>
+		<Наименование>Статьи</Наименование>
+		<БитриксКод>articles</БитриксКод>
+		<БитриксСортировка>500</БитриксСортировка>
+		<БитриксURLСписок>#SITE_DIR#/info/articles/</БитриксURLСписок>
+		<БитриксURLДеталь>#SITE_DIR#/info/articles/#SECTION_CODE#/#ELEMENT_CODE#/</БитриксURLДеталь>
+		<БитриксURLРаздел>#SITE_DIR#/info/articles/#SECTION_CODE#/</БитриксURLРаздел>
+		<БитриксURLКанонический></БитриксURLКанонический>
+		<БитриксКартинка></БитриксКартинка>
+		<БитриксИндексироватьЭлементы>true</БитриксИндексироватьЭлементы>
+		<БитриксИндексироватьРазделы>false</БитриксИндексироватьРазделы>
+		<БитриксДокументооборот>false</БитриксДокументооборот>
+		<БитриксПодписи>
+			<БитриксПодпись>
+				<Ид>ELEMENT_NAME</Ид>
+				<Значение>Элемент</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENTS_NAME</Ид>
+				<Значение>Элементы</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENT_ADD</Ид>
+				<Значение>Добавить элемент</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENT_EDIT</Ид>
+				<Значение>Изменить элемент</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENT_DELETE</Ид>
+				<Значение>Удалить элемент</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_NAME</Ид>
+				<Значение>Раздел</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTIONS_NAME</Ид>
+				<Значение>Разделы</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_ADD</Ид>
+				<Значение>Добавить раздел</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_EDIT</Ид>
+				<Значение>Изменить раздел</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_DELETE</Ид>
+				<Значение>Удалить раздел</Значение>
+			</БитриксПодпись>
+		</БитриксПодписи>
+		<Товары>
+			<Товар>
+				<Ид>253</Ид>
+				<Наименование>Ремонт ванной</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+					<Ид>27</Ид>
+				</Группы>
+				<Картинка>articles_files/iblock/e1a/e1a6668ec217348de836f8263937fa3c.jpg</Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>remont_vannoy</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2017-09-19 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>Рыбные тексты также применяются для демонстрации различных видов шрифта и в разработке макетов. Как правило их содержание бессмысленно. По причине своей функции текста-заполнителя для макетов нечитабельность рыбных текстов имеет особое значение, так как человеческое восприятие имеет особенность, распознавать определенные образцы и повторения. В случае произвольного набора букв и длины слов ничто не отвлекает от оценки воздействия и читаемости различных шрифтов, а также от распределения текста на странице (макет или площадь набора). </Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque mode accumsan est in tempus, etos at ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse est gravida ornare. Non mattis morbi suspendisse velit rutrum modest a tortor velim pellentesque uter justo magna gravida.&lt;/p&gt;
+         &lt;blockquote class=&quot;sl-small-quote page-margin-top&quot;&gt;Paetos dignissim at cursus elefeind norma . Pellentesque accumsan tempus etos ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo.&lt;/blockquote&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida.&lt;/p&gt;
+         &lt;h4&gt;LACUS MODEM ELEMENTUM&lt;/h4&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida. Pellentesque accumsan, ex in tempus ullamcorper terminal. Setis lacus suscipit tortor ergat vitae metus.&lt;/p&gt;
+         &lt;h5&gt;GRAVIDA TERMINAL ETOS&lt;/h5&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Terminal gravida est novum elementum modest ornare. Suspendisse novum etos metro vehicula est gravida ornare non &lt;a href=&quot;#&quot;&gt;mattis velit rutrum&lt;/a&gt; modest. Morbi suspendisse tortor velim. Novum elementum in tempus &lt;a href=&quot;#&quot;&gt;pellentesque accumsan&lt;/a&gt; est ullamcorper.&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>articles_files/iblock/4ca/4cae2a976551b72198e74e434bc990f2.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>54</Ид>
+						<Значение>https://www.youtube.com/watch?v=X7p3goX7gkk</Значение>
+						<ЗначениеСвойства>
+							<Значение>https://www.youtube.com/watch?v=X7p3goX7gkk</Значение>
+							<Описание></Описание>
+						</ЗначениеСвойства>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>254</Ид>
+				<Наименование>Ремонт квартиры</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+					<Ид>27</Ид>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>remont_kvartiry</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2017-09-19 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>Рыбные тексты также применяются для демонстрации различных видов шрифта и в разработке макетов. Как правило их содержание бессмысленно. По причине своей функции текста-заполнителя для макетов нечитабельность рыбных текстов имеет особое значение, так как человеческое восприятие имеет особенность, распознавать определенные образцы и повторения. В случае произвольного набора букв и длины слов ничто не отвлекает от оценки воздействия и читаемости различных шрифтов, а также от распределения текста на странице (макет или площадь набора). </Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque mode accumsan est in tempus, etos at ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse est gravida ornare. Non mattis morbi suspendisse velit rutrum modest a tortor velim pellentesque uter justo magna gravida.&lt;/p&gt;
+         &lt;blockquote class=&quot;sl-small-quote page-margin-top&quot;&gt;Paetos dignissim at cursus elefeind norma . Pellentesque accumsan tempus etos ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo.&lt;/blockquote&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida.&lt;/p&gt;
+         &lt;h4&gt;LACUS MODEM ELEMENTUM&lt;/h4&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida. Pellentesque accumsan, ex in tempus ullamcorper terminal. Setis lacus suscipit tortor ergat vitae metus.&lt;/p&gt;
+         &lt;h5&gt;GRAVIDA TERMINAL ETOS&lt;/h5&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Terminal gravida est novum elementum modest ornare. Suspendisse novum etos metro vehicula est gravida ornare non &lt;a href=&quot;#&quot;&gt;mattis velit rutrum&lt;/a&gt; modest. Morbi suspendisse tortor velim. Novum elementum in tempus &lt;a href=&quot;#&quot;&gt;pellentesque accumsan&lt;/a&gt; est ullamcorper.&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>articles_files/iblock/c9a/c9a7fa25baa6a06a27e653e349e30e4b.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>54</Ид>
+						<Значение>https://www.youtube.com/watch?v=OLxokS70bhU</Значение>
+						<ЗначениеСвойства>
+							<Значение>https://www.youtube.com/watch?v=OLxokS70bhU</Значение>
+							<Описание></Описание>
+						</ЗначениеСвойства>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>150</Ид>
+				<Наименование>Идеи для интерьера</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+					<Ид>26</Ид>
+				</Группы>
+				<Картинка>articles_files/iblock/a4b/a4bce651f2f1e2cdb66de82770f98f84.jpg</Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>idei_dlya_interera</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2018-01-16 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>Рыбные тексты также применяются для демонстрации различных видов шрифта и в разработке макетов. Как правило их содержание бессмысленно. По причине своей функции текста-заполнителя для макетов нечитабельность рыбных текстов имеет особое значение, так как человеческое восприятие имеет особенность, распознавать определенные образцы и повторения. В случае произвольного набора букв и длины слов ничто не отвлекает от оценки воздействия и читаемости различных шрифтов, а также от распределения текста на странице (макет или площадь набора). </Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque mode accumsan est in tempus, etos at ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse est gravida ornare. Non mattis morbi suspendisse velit rutrum modest a tortor velim pellentesque uter justo magna gravida.&lt;/p&gt;
+         &lt;blockquote class=&quot;sl-small-quote page-margin-top&quot;&gt;Paetos dignissim at cursus elefeind norma . Pellentesque accumsan tempus etos ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo.&lt;/blockquote&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida.&lt;/p&gt;
+         &lt;h4&gt;LACUS MODEM ELEMENTUM&lt;/h4&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida. Pellentesque accumsan, ex in tempus ullamcorper terminal. Setis lacus suscipit tortor ergat vitae metus.&lt;/p&gt;
+         &lt;h5&gt;GRAVIDA TERMINAL ETOS&lt;/h5&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Terminal gravida est novum elementum modest ornare. Suspendisse novum etos metro vehicula est gravida ornare non &lt;a href=&quot;#&quot;&gt;mattis velit rutrum&lt;/a&gt; modest. Morbi suspendisse tortor velim. Novum elementum in tempus &lt;a href=&quot;#&quot;&gt;pellentesque accumsan&lt;/a&gt; est ullamcorper.&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>articles_files/iblock/105/105c53f71ecf1a880f5d225b7a3ab57a.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>54</Ид>
+						<Значение>https://www.youtube.com/watch?v=-xmDRpPstrQ</Значение>
+						<ЗначениеСвойства>
+							<Значение>https://www.youtube.com/watch?v=-xmDRpPstrQ</Значение>
+							<Описание></Описание>
+						</ЗначениеСвойства>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>151</Ид>
+				<Наименование>Тренды 2018</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+					<Ид>26</Ид>
+				</Группы>
+				<Картинка>articles_files/iblock/8ac/8acb6c665fe6571cfb022621bed46cff.jpg</Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>trendy_2018</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2018-01-15 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>Рыбные тексты также применяются для демонстрации различных видов шрифта и в разработке макетов. Как правило их содержание бессмысленно. По причине своей функции текста-заполнителя для макетов нечитабельность рыбных текстов имеет особое значение, так как человеческое восприятие имеет особенность, распознавать определенные образцы и повторения. В случае произвольного набора букв и длины слов ничто не отвлекает от оценки воздействия и читаемости различных шрифтов, а также от распределения текста на странице (макет или площадь набора). </Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque mode accumsan est in tempus, etos at ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse est gravida ornare. Non mattis morbi suspendisse velit rutrum modest a tortor velim pellentesque uter justo magna gravida.&lt;/p&gt;
+         &lt;blockquote class=&quot;sl-small-quote page-margin-top&quot;&gt;Paetos dignissim at cursus elefeind norma . Pellentesque accumsan tempus etos ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo.&lt;/blockquote&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida.&lt;/p&gt;
+         &lt;h4&gt;LACUS MODEM ELEMENTUM&lt;/h4&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida. Pellentesque accumsan, ex in tempus ullamcorper terminal. Setis lacus suscipit tortor ergat vitae metus.&lt;/p&gt;
+         &lt;h5&gt;GRAVIDA TERMINAL ETOS&lt;/h5&gt;
+         &lt;p&gt;Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Terminal gravida est novum elementum modest ornare. Suspendisse novum etos metro vehicula est gravida ornare non &lt;a href=&quot;#&quot;&gt;mattis velit rutrum&lt;/a&gt; modest. Morbi suspendisse tortor velim. Novum elementum in tempus &lt;a href=&quot;#&quot;&gt;pellentesque accumsan&lt;/a&gt; est ullamcorper.&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>articles_files/iblock/e45/e451cae03ce38a3da55f293802c67749.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>54</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+		</Товары>
+	</Каталог>
+</КоммерческаяИнформация>

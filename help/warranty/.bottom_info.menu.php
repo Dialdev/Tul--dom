@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"ПОМОЩЬ", 
+		"/help/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вопрос-ответ", 
+		"/info/faq/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Как оформить заказ", 
+		"/help/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Блог", 
+		"/blog/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

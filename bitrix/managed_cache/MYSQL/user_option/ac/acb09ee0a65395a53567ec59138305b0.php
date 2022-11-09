@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001657443004';
+$dateexpire = '001657446604';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:3:"pos";a:3:{s:8:"sections";s:1072:"menu_util,menu_iblock_%2F1c_catalog%2F110,menu_iblock_%2Faspro_max_catalog%2F17,iblock_admin,menu_iblock_%2Faspro_max_catalog%2F113,menu_iblock_%2Faspro_max_catalog%2F20,menu_iblock_%2Faspro_max_catalog%2F13,menu_iblock_%2Faspro_max_regionality%2F4,menu_iblock_%2Faspro_max_adv%2F1,menu_iblock_%2Faspro_max_adv%2F25,menu_iblock_%2Faspro_max_adv%2F12,menu_iblock_%2Faspro_max_adv%2F7,menu_iblock_%2Faspro_max_adv%2F8,menu_iblock_%2Faspro_max_adv%2F112,menu_iblock_%2Faspro_max_content%2F15,menu_sale_settings,menu_iblock_%2Faspro_max_content%2F16,menu_iblock_%2Faspro_max_content%2F23,menu_catalog_list,menu_catalog_24,menu_order,global_menu_aspro_max_items,menu_iblock_/aspro_max_catalog,menu_system,menu_site,menu_fileman_site_fq_,menu_iblock_%2Faspro_max_catalog%2F26,menu_iblock_%2Faspro_max_catalog%2F27,menu_fileman,menu_iblock_%2Faspro_max_content%2F21,menu_iblock,menu_iblock_/aspro_max_content,menu_lang,menu_iblock_%2Faspro_max_content%2F11,menu_iblock_%2Faspro_max_catalog%2F5,menu_iblock_%2Faspro_max_catalog%2F24,menu_iblock_/aspro_max_adv,menu_module_settings";s:5:"width";s:3:"403";s:3:"ver";s:2:"on";}}}';
+return true;
+?>

@@ -1,0 +1,67 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+Options -Indexes 
+ErrorDocument 404 /404.php
+
+<IfModule mod_php5.c>
+  php_flag session.use_trans_sid off
+  #php_flag default_charset UTF-8
+  #php_value display_errors 1
+</IfModule>
+
+<IfModule mod_php7.c>
+  php_flag session.use_trans_sid off
+  #php_flag default_charset UTF-8
+  #php_value display_errors 1
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+
+  RewriteEngine On
+
+  RewriteCond %{THE_REQUEST} //
+    # Проверяем, повторяется ли слеш (//) более двух раз.
+  RewriteRule .* /$0 [R=301,L]
+    # Исключаем все лишние слеши.
+
+  RewriteCond %{HTTP_HOST} ^www\.(.*)$
+  RewriteRule ^(.*)$ http://%1/$1 [L,R=301] 
+
+  RewriteCond %{THE_REQUEST} ([^\s]*)\/{2,}(\?[^\s]*)?
+  RewriteRule (.*) %1 [R=301,L]
+
+  RewriteCond %{THE_REQUEST} ^[^\s]+\s+[^?]*?\?
+  RewriteCond %{QUERY_STRING} ^$
+  RewriteRule .? %{REQUEST_URI}? [R=301,L]
+
+  RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+  RewriteRule ^index\.php$ http://tuldom.ru/ [R=301,L]
+
+			
+	# ASPRO_ROBOTS Serve robots.txt with robots.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} robots.txt
+	RewriteCond %{DOCUMENT_ROOT}/robots.php -f
+	RewriteRule ^(.*)$ /robots.php [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+  RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+  RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+</IfModule>
+
+<IfModule mod_dir.c>
+  DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresByType image/jpeg "access plus 3 day"
+  ExpiresByType image/gif "access plus 3 day"
+  ExpiresByType image/png "access plus 3 day"
+  ExpiresByType text/css "access plus 3 day"
+  ExpiresByType application/javascript "access plus 3 day"  
+</IfModule>

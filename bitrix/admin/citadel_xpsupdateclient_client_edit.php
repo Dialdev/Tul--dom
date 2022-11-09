@@ -1,0 +1,1 @@
+<? require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/citadel.xpsupdateclient/admin/pages/client_edit.php");?>

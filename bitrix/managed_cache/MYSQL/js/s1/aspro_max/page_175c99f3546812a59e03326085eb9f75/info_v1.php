@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/aspro_max/components/bitrix/news/news/script.js" => "1575613239833","/bitrix/templates/aspro_max/components/bitrix/news.detail/news/script.js" => "15956066901614",]; ?>

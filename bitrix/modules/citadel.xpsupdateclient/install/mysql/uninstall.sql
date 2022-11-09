@@ -1,0 +1,1 @@
+DROP TABLE if exists b_citadel_xpsupdateclient_client;

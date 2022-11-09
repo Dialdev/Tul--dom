@@ -1,0 +1,1914 @@
+ERROR REGISTER
+----------------------------
+DATE: 2020-08-16 20:43:35
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 707_29
+    [amount] => 104600
+    [userName] => 
+    [password] => 
+    [description] => 00777
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10006&PAYMENT_ID=15
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"site4sale@yandex.ru","email":"site4sale@yandex.ru","phone":"+7 (902) 902-32-00"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+ERROR REGISTER
+----------------------------
+DATE: 2020-08-16 20:51:58
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 708_29
+    [amount] => 104600
+    [userName] => 
+    [password] => 
+    [description] => 4563456w256262
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10007&PAYMENT_ID=16
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"site4sale@yandex.ru","email":"site4sale@yandex.ru","phone":"+7 (902) 902-32-00"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+ERROR REGISTER
+----------------------------
+DATE: 2020-08-16 20:53:26
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 709_29
+    [amount] => 104600
+    [userName] => 
+    [password] => 
+    [description] => 5879579879
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10008&PAYMENT_ID=17
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"site4sale@yandex.ru","email":"site4sale@yandex.ru","phone":"+7 (902) 902-32-00"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+ERROR REGISTER
+----------------------------
+DATE: 2020-08-16 21:00:11
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 710_29
+    [amount] => 103600
+    [userName] => 
+    [password] => 
+    [description] => ТТТТТТТТТТТТТТЕЕЕЕЕЕЕЕССССССТТТТТТТТТТ
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10009&PAYMENT_ID=18
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"alexandrsergunin@yandex.ru","email":"alexandrsergunin@yandex.ru","phone":"+7 (915) 683-16-39"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+ERROR REGISTER
+----------------------------
+DATE: 2020-08-18 14:14:25
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 717_29
+    [amount] => 125200
+    [userName] => 
+    [password] => 
+    [description] => ТТТТЕЕЕСССССТТТТ 1111122222
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10016&PAYMENT_ID=25
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"alexandrsergunin@yandex.ru","email":"alexandrsergunin@yandex.ru","phone":"+7 (920) 740-55-60"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+ERROR REGISTER
+----------------------------
+DATE: 2020-08-18 15:34:47
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 720_29
+    [amount] => 141400
+    [userName] => 
+    [password] => 
+    [description] => 6785678467  67гшенгл гкенокенрн56г546г 568689д6 легтоке
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10019&PAYMENT_ID=28
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"test@test.ru","email":"test@test.ru","phone":"+7 (111) 111-11-11"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+ERROR REGISTER
+----------------------------
+DATE: 2020-08-18 17:25:20
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 720_29
+    [amount] => 141400
+    [userName] => 
+    [password] => 
+    [description] => 6785678467  67гшенгл гкенокенрн56г546г 568689д6 легтоке
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10019&PAYMENT_ID=28
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"test@test.ru","email":"test@test.ru","phone":"+7 (111) 111-11-11"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+ERROR REGISTER
+----------------------------
+DATE: 2020-08-18 17:34:56
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 720_29
+    [amount] => 141400
+    [userName] => 
+    [password] => 
+    [description] => 6785678467  67гшенгл гкенокенрн56г546г 568689д6 легтоке
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10019&PAYMENT_ID=28
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"test@test.ru","email":"test@test.ru","phone":"+7 (111) 111-11-11"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+ERROR REGISTER
+----------------------------
+DATE: 2020-08-18 17:51:01
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 721_29
+    [amount] => 105000
+    [userName] => tuldom-api
+    [password] => tuldom*?1
+    [description] => =-0=-0=-0
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10020&PAYMENT_ID=29
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"test@test.ru","email":"test@test.ru","phone":"+7 (111) 111-11-11"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2020-08-18 17:54:11
+URL https://web.rbsuat.com/ab/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 722_0
+    [amount] => 105000
+    [userName] => tuldom-api
+    [password] => tuldom*?1
+    [description] => test
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10021&PAYMENT_ID=30
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"test@test.ru","email":"test@test.ru","phone":"+7 (111) 111-11-11"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 00cff8b8-ce67-7395-8e49-f39101efdd7e
+    [formUrl] => https://web.rbsuat.com/ab/merchants/typical/payment_ru.html?mdOrder=00cff8b8-ce67-7395-8e49-f39101efdd7e
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2020-08-18 18:14:13
+URL https://web.rbsuat.com/ab/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => tuldom*?1
+    [orderId] => 00cff8b8-ce67-7395-8e49-f39101efdd7e
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"722_0","orderStatus":6,"actionCode":-2007,"actionCodeDescription":"\u0418\u0441\u0442\u0435\u043a \u0441\u0440\u043e\u043a \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0432\u0432\u043e\u0434\u0430 \u0434\u0430\u043d\u043d\u044b\u0445.","amount":105000,"currency":"810","date":1597762451620,"orderDescription":"test","merchantOrderParams":[{"name":"formUrl","value":"https:\/\/web.rbsuat.com\/ab\/merchants\/typical\/payment_ru.html?mdOrder=00cff8b8-ce67-7395-8e49-f39101efdd7e"},{"name":"phone","value":"+7 (111) 111-11-11"},{"name":"CMS","value":"Bitrix 20.0.700"},{"name":"Module-Version","value":"1.1.3"},{"name":"email","value":"test@test.ru"},{"name":"USER_FIO","value":"test@test.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"00cff8b8-ce67-7395-8e49-f39101efdd7e"}],"terminalId":"123456","paymentAmountInfo":{"paymentState":"DECLINED","approvedAmount":0,"depositedAmount":0,"refundedAmount":0},"bankInfo":{"bankCountryCode":"UNKNOWN","bankCountryName":"\u003C\u041d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u003E"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2020-08-18 19:05:27
+URL https://web.rbsuat.com/ab/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 723_0
+    [amount] => 100
+    [userName] => tuldom-api
+    [password] => tuldom*?1
+    [description] => ТЕСТ
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10022&PAYMENT_ID=31
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"test@test.ru","email":"test@test.ru","phone":"+7 (111) 111-11-11"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 00d036ef-45db-75bf-a6e3-2c6a01efdd7e
+    [formUrl] => https://web.rbsuat.com/ab/merchants/typical/payment_ru.html?mdOrder=00d036ef-45db-75bf-a6e3-2c6a01efdd7e
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2020-08-18 19:06:52
+URL https://web.rbsuat.com/ab/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => tuldom*?1
+    [orderId] => 00d036ef-45db-75bf-a6e3-2c6a01efdd7e
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"723_0","orderStatus":6,"actionCode":151019,"actionCodeDescription":"\u041d\u0435 \u043f\u043e\u043b\u0443\u0447\u0435\u043d \u043e\u0442\u0432\u0435\u0442 \u043e\u0442 \u0431\u0430\u043d\u043a\u0430. \u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u0437\u0436\u0435.","amount":100,"currency":"810","date":1597766726848,"orderDescription":"\u0422\u0415\u0421\u0422","ip":"212.35.166.86","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (111) 111-11-11"},{"name":"formUrl","value":"https:\/\/web.rbsuat.com\/ab\/merchants\/typical\/payment_ru.html?mdOrder=00d036ef-45db-75bf-a6e3-2c6a01efdd7e"},{"name":"CMS","value":"Bitrix 20.0.700"},{"name":"Module-Version","value":"1.1.3"},{"name":"browser_os_param","value":"WINDOWS"},{"name":"browser_version_param","value":"84.0.4147.125"},{"name":"email","value":"test@test.ru"},{"name":"browser_name_param","value":"CHROME"},{"name":"user_agent","value":"Mozilla\/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/84.0.4147.125 Safari\/537.36"},{"name":"USER_FIO","value":"test@test.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"00d036ef-45db-75bf-a6e3-2c6a01efdd7e"}],"cardAuthInfo":{"maskedPan":"220220**0238","expiration":"202401","cardholderName":"ALEXANDER FOMIN","paymentSystem":"MIR","product":"MIR","pan":"220220**0238"},"terminalId":"123456","paymentAmountInfo":{"paymentState":"DECLINED","approvedAmount":0,"depositedAmount":0,"refundedAmount":0},"bankInfo":{"bankName":"Sberbank","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2020-08-20 10:35:11
+URL https://web.rbsuat.com/ab/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 724_0
+    [amount] => 44200
+    [userName] => tuldom-api
+    [password] => tuldom*?1
+    [description] => ТЕСТ ТЕСТ ТЕСТ ТЕСТ
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10023&PAYMENT_ID=32
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"alexandrsergunin@yandex.ru","email":"alexandrsergunin@yandex.ru","phone":"+7 (920) 740-55-60"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 00d84bfe-04bf-749b-a289-1b8401efdd7e
+    [formUrl] => https://web.rbsuat.com/ab/merchants/typical/payment_ru.html?mdOrder=00d84bfe-04bf-749b-a289-1b8401efdd7e
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2020-08-20 10:36:32
+URL https://web.rbsuat.com/ab/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => tuldom*?1
+    [orderId] => 00d84bfe-04bf-749b-a289-1b8401efdd7e
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"724_0","orderStatus":6,"actionCode":151019,"actionCodeDescription":"\u041d\u0435 \u043f\u043e\u043b\u0443\u0447\u0435\u043d \u043e\u0442\u0432\u0435\u0442 \u043e\u0442 \u0431\u0430\u043d\u043a\u0430. \u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u0437\u0436\u0435.","amount":44200,"currency":"810","date":1597908911404,"orderDescription":"\u0422\u0415\u0421\u0422 \u0422\u0415\u0421\u0422 \u0422\u0415\u0421\u0422 \u0422\u0415\u0421\u0422","ip":"94.25.160.16","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"formUrl","value":"https:\/\/web.rbsuat.com\/ab\/merchants\/typical\/payment_ru.html?mdOrder=00d84bfe-04bf-749b-a289-1b8401efdd7e"},{"name":"phone","value":"+7 (920) 740-55-60"},{"name":"CMS","value":"Bitrix 20.0.700"},{"name":"browser_os_param","value":"WINDOWS"},{"name":"Module-Version","value":"1.1.3"},{"name":"browser_version_param","value":"84.0.4147.86"},{"name":"browser_name_param","value":"CHROME"},{"name":"user_agent","value":"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/84.0.4147.86 YaBrowser\/20.8.0.903 Yowser\/2.5 Safari\/537.36"},{"name":"email","value":"alexandrsergunin@yandex.ru"},{"name":"USER_FIO","value":"alexandrsergunin@yandex.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"00d84bfe-04bf-749b-a289-1b8401efdd7e"}],"cardAuthInfo":{"maskedPan":"427666**7962","expiration":"202110","cardholderName":"VERONIKA SERGUNINA","paymentSystem":"VISA","pan":"427666**7962"},"terminalId":"123456","paymentAmountInfo":{"paymentState":"DECLINED","approvedAmount":0,"depositedAmount":0,"refundedAmount":0},"bankInfo":{"bankName":"Sberbank Of Russia","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2020-08-30 17:53:15
+URL https://web.rbsuat.com/ab/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 726_1
+    [amount] => 31100
+    [userName] => tuldom-api
+    [password] => tuldom*?1
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10025&PAYMENT_ID=34
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"test@test.ru","email":"test@test.ru","phone":"+7 (111) 111-11-11"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 010ae752-7843-7b64-8475-3b0301efdd7e
+    [formUrl] => https://web.rbsuat.com/ab/merchants/typical/payment_ru.html?mdOrder=010ae752-7843-7b64-8475-3b0301efdd7e
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2020-09-18 17:51:51
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 729_0
+    [amount] => 43800
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => это тестирование, не настоящий заказ
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10028&PAYMENT_ID=37
+    [CMS] => Bitrix 20.0.700
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.700","Module-Version":"1.1.3","USER_FIO":"trukhin@citadel.digital","email":"trukhin@citadel.digital","phone":"+7 (963) 692-40-20"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 090b7e88-a113-7d06-8d3a-8266042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapay/payment_ru.html?mdOrder=090b7e88-a113-7d06-8d3a-8266042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2020-12-18 09:37:49
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 734_0
+    [amount] => 1359400
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10033&PAYMENT_ID=42
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"mamba525@yandex.ru","email":"mamba525@yandex.ru","phone":"+7 (953) 198-47-96"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => b9b29f24-1045-72c0-8d10-f1bc042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=b9b29f24-1045-72c0-8d10-f1bc042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-01-11 19:15:25
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 735_0
+    [amount] => 675000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://www.tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10034&PAYMENT_ID=43
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"karavajka@mail.ru","email":"karavajka@mail.ru","phone":"+7 (919) 085-08-81"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 348315f0-87ed-7d0f-a914-228d042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=348315f0-87ed-7d0f-a914-228d042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-01-11 19:19:21
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 348315f0-87ed-7d0f-a914-228d042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"735_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":675000,"currency":"810","date":1610381725453,"orderDescription":"","ip":"37.208.72.90","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=348315f0-87ed-7d0f-a914-228d042eaa4d"},{"name":"phone","value":"+7 (919) 085-08-81"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"browser_os_param","value":"ANDROID"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_version_param","value":"83.0.4103.106"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-A105F) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/13.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"email","value":"karavajka@mail.ru"},{"name":"USER_FIO","value":"karavajka@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"348315f0-87ed-7d0f-a914-228d042eaa4d"}],"cardAuthInfo":{"maskedPan":"536829**7346","expiration":"202206","cardholderName":"DMITRII DUSHKIN","approvalCode":"Z2YMN0","paymentSystem":"MASTERCARD","pan":"536829**7346"},"authDateTime":1610381960651,"terminalId":"80004822","authRefNum":"416607594784","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":675000,"depositedAmount":675000,"refundedAmount":0},"bankInfo":{"bankName":"VTB BANK (PUBLIC JOINT-STOCK C OMPANY)","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-01-12 12:40:17
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 348315f0-87ed-7d0f-a914-228d042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"735_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":675000,"currency":"810","date":1610381725453,"orderDescription":"","ip":"37.208.72.90","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=348315f0-87ed-7d0f-a914-228d042eaa4d"},{"name":"phone","value":"+7 (919) 085-08-81"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"browser_os_param","value":"ANDROID"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_version_param","value":"83.0.4103.106"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-A105F) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/13.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"email","value":"karavajka@mail.ru"},{"name":"USER_FIO","value":"karavajka@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"348315f0-87ed-7d0f-a914-228d042eaa4d"}],"cardAuthInfo":{"maskedPan":"536829**7346","expiration":"202206","cardholderName":"DMITRII DUSHKIN","approvalCode":"Z2YMN0","paymentSystem":"MASTERCARD","pan":"536829**7346"},"authDateTime":1610381960651,"terminalId":"80004822","authRefNum":"416607594784","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":675000,"depositedAmount":675000,"refundedAmount":0},"bankInfo":{"bankName":"VTB BANK (PUBLIC JOINT-STOCK C OMPANY)","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-01-12 12:40:42
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 348315f0-87ed-7d0f-a914-228d042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"735_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":675000,"currency":"810","date":1610381725453,"orderDescription":"","ip":"37.208.72.90","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=348315f0-87ed-7d0f-a914-228d042eaa4d"},{"name":"phone","value":"+7 (919) 085-08-81"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"browser_os_param","value":"ANDROID"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_version_param","value":"83.0.4103.106"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-A105F) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/13.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"email","value":"karavajka@mail.ru"},{"name":"USER_FIO","value":"karavajka@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"348315f0-87ed-7d0f-a914-228d042eaa4d"}],"cardAuthInfo":{"maskedPan":"536829**7346","expiration":"202206","cardholderName":"DMITRII DUSHKIN","approvalCode":"Z2YMN0","paymentSystem":"MASTERCARD","pan":"536829**7346"},"authDateTime":1610381960651,"terminalId":"80004822","authRefNum":"416607594784","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":675000,"depositedAmount":675000,"refundedAmount":0},"bankInfo":{"bankName":"VTB BANK (PUBLIC JOINT-STOCK C OMPANY)","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-02-28 18:59:16
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 739_0
+    [amount] => 2651700
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => Нужна доставка в Коптево,
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10038&PAYMENT_ID=47
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"vladimir_mokeev@mail.ru","email":"vladimir_mokeev@mail.ru","phone":"+7 (950) 922-19-55"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 5e027c08-f18c-79d8-be3a-c2ca042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=5e027c08-f18c-79d8-be3a-c2ca042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-02-28 19:25:28
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 739_1
+    [amount] => 2651700
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => Нужна доставка в Коптево,
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10038&PAYMENT_ID=47
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"vladimir_mokeev@mail.ru","email":"vladimir_mokeev@mail.ru","phone":"+7 (950) 922-19-55"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => d5e0d8c9-a82a-7b1b-bfc0-9dff042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=d5e0d8c9-a82a-7b1b-bfc0-9dff042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-02-28 20:50:21
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 739_2
+    [amount] => 2651700
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => Нужна доставка в Коптево,
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10038&PAYMENT_ID=47
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"vladimir_mokeev@mail.ru","email":"vladimir_mokeev@mail.ru","phone":"+7 (950) 922-19-55"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 146311b4-9893-7c42-9ce4-9d68042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=146311b4-9893-7c42-9ce4-9d68042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-02-28 20:51:33
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 146311b4-9893-7c42-9ce4-9d68042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"739_2","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":2651700,"currency":"810","date":1614534621052,"orderDescription":"\u041d\u0443\u0436\u043d\u0430 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0432 \u041a\u043e\u043f\u0442\u0435\u0432\u043e,","ip":"128.74.59.150","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=146311b4-9893-7c42-9ce4-9d68042eaa4d"},{"name":"phone","value":"+7 (950) 922-19-55"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"browser_os_param","value":"ANDROID"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_version_param","value":"88.0.4324.181"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; Android 10; SM-A505FM) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/88.0.4324.181 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"email","value":"vladimir_mokeev@mail.ru"},{"name":"USER_FIO","value":"vladimir_mokeev@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"146311b4-9893-7c42-9ce4-9d68042eaa4d"}],"cardAuthInfo":{"maskedPan":"546966**1538","expiration":"202402","cardholderName":"SVETLANA TIKHONOVICH","approvalCode":"298590","paymentSystem":"MASTERCARD","pan":"546966**1538"},"authDateTime":1614534692207,"terminalId":"80004822","authRefNum":"417390332131","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":2651700,"depositedAmount":2651700,"refundedAmount":0},"bankInfo":{"bankName":"SBERBANK OF RUSSIA","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-05-13 17:01:56
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 744_0
+    [amount] => 650000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10043&PAYMENT_ID=52
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"dmitri222@yandex.ru","email":"dmitri222@yandex.ru","phone":"+7 (980) 727-40-40"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 7fd9fc0e-36c9-79ac-ae7f-e351042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=7fd9fc0e-36c9-79ac-ae7f-e351042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-05-13 17:04:22
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 7fd9fc0e-36c9-79ac-ae7f-e351042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"744_0","orderStatus":6,"actionCode":116,"actionCodeDescription":"\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u044f \u043e\u0442\u043a\u043b\u043e\u043d\u0435\u043d\u0430. \u041d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0441\u0440\u0435\u0434\u0441\u0442\u0432","amount":650000,"currency":"810","date":1620914516026,"orderDescription":"","ip":"212.35.173.222","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (980) 727-40-40"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=7fd9fc0e-36c9-79ac-ae7f-e351042eaa4d"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"WINDOWS"},{"name":"browser_version_param","value":"90.0.4430.93"},{"name":"email","value":"dmitri222@yandex.ru"},{"name":"browser_name_param","value":"CHROME"},{"name":"user_agent","value":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/90.0.4430.93 Safari\/537.36"},{"name":"USER_FIO","value":"dmitri222@yandex.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"7fd9fc0e-36c9-79ac-ae7f-e351042eaa4d"}],"cardAuthInfo":{"maskedPan":"555947**9939","expiration":"202503","cardholderName":"DMITRI MELNICHENKO","approvalCode":"000000","paymentSystem":"MASTERCARD","pan":"555947**9939"},"terminalId":"80004822","authRefNum":"418680511865","paymentAmountInfo":{"paymentState":"DECLINED","approvedAmount":0,"depositedAmount":0,"refundedAmount":0},"bankInfo":{"bankName":"JOINT STOCK COMPANY \u0022ALFA-BANK\u0022","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-05-13 17:07:21
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 745_0
+    [amount] => 650000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10044&PAYMENT_ID=53
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"dmitri222@yandex.ru","email":"dmitri222@yandex.ru","phone":"+7 (980) 727-40-40"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 344501f0-04f6-7e3a-8c80-1e92042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=344501f0-04f6-7e3a-8c80-1e92042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-05-13 17:08:30
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 344501f0-04f6-7e3a-8c80-1e92042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"745_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":650000,"currency":"810","date":1620914841236,"orderDescription":"","ip":"212.35.173.222","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (980) 727-40-40"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=344501f0-04f6-7e3a-8c80-1e92042eaa4d"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"WINDOWS"},{"name":"browser_version_param","value":"90.0.4430.93"},{"name":"email","value":"dmitri222@yandex.ru"},{"name":"browser_name_param","value":"CHROME"},{"name":"user_agent","value":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/90.0.4430.93 Safari\/537.36"},{"name":"USER_FIO","value":"dmitri222@yandex.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"344501f0-04f6-7e3a-8c80-1e92042eaa4d"}],"cardAuthInfo":{"maskedPan":"479004**8361","expiration":"202510","cardholderName":"DMITRI MELNICHENKO","approvalCode":"5VB06T","paymentSystem":"VISA","pan":"479004**8361"},"authDateTime":1620914910303,"terminalId":"80004822","authRefNum":"418680604903","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":650000,"depositedAmount":650000,"refundedAmount":0},"bankInfo":{"bankName":"Joint Stock Company Alfa-Bank","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-05-14 15:42:38
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 746_0
+    [amount] => 13000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10045&PAYMENT_ID=54
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"asdfasdf@sdfasdf.com","email":"asdfasdf@sdfasdf.com","phone":"+7 (111) 111-11-11"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 5b8c0ca4-27a5-75e0-bb2e-5405042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=5b8c0ca4-27a5-75e0-bb2e-5405042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-05-28 10:26:45
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 749_0
+    [amount] => 2650000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10048&PAYMENT_ID=57
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"89168849916@mail.ru","email":"89168849916@mail.ru","phone":"+7 (892) 686-89-91"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 8fc5ded3-df94-74ad-8209-5fa8042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=8fc5ded3-df94-74ad-8209-5fa8042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-06-02 09:14:14
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 750_0
+    [amount] => 33300
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10049&PAYMENT_ID=58
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"Misterzhimerin@yandex.ru","email":"Misterzhimerin@yandex.ru","phone":"+7 (906) 624-77-39"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 791d2657-8de2-7eb4-b15b-12f7042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=791d2657-8de2-7eb4-b15b-12f7042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-06-17 00:01:02
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 754_0
+    [amount] => 4110000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10053&PAYMENT_ID=62
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"eugenia_lapaeva@mail.ru","email":"eugenia_lapaeva@mail.ru","phone":"+7 (916) 910-34-32"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => ced3636d-805d-7218-a47b-82e0042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=ced3636d-805d-7218-a47b-82e0042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-07-01 15:58:36
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 758_0
+    [amount] => 440000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10057&PAYMENT_ID=66
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"wernanto@mail.ru","email":"wernanto@mail.ru","phone":"+7 (910) 155-40-55"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => b3ca60f7-f60c-715d-a434-ea79042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=b3ca60f7-f60c-715d-a434-ea79042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-07-01 16:00:35
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => b3ca60f7-f60c-715d-a434-ea79042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"758_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":440000,"currency":"810","date":1625144316641,"orderDescription":"","ip":"213.87.160.207","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=b3ca60f7-f60c-715d-a434-ea79042eaa4d"},{"name":"phone","value":"+7 (910) 155-40-55"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"browser_os_param","value":"IOS"},{"name":"Module-Version","value":"1.1.5"},{"name":"user_agent","value":"Mozilla\/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) GSA\/166.0.381336632 Mobile\/15E148 Safari\/604.1"},{"name":"browser_name_param","value":"SAFARI"},{"name":"email","value":"wernanto@mail.ru"},{"name":"USER_FIO","value":"wernanto@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"b3ca60f7-f60c-715d-a434-ea79042eaa4d"}],"cardAuthInfo":{"maskedPan":"427666**9875","expiration":"202206","cardholderName":"MARIYA BOGDANOVA","approvalCode":"203142","paymentSystem":"VISA","pan":"427666**9875"},"authDateTime":1625144434447,"terminalId":"80004822","authRefNum":"118213493750","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":440000,"depositedAmount":440000,"refundedAmount":0},"bankInfo":{"bankName":"SBERBANK of Russia","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-07-03 23:05:39
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 759_0
+    [amount] => 1860000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => На сайте скидка от 2-поддонов
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10058&PAYMENT_ID=67
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"89207633015@mail.ru","email":"89207633015@mail.ru","phone":"+7 (920) 763-30-15"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => bfbbb26e-5034-747b-a80e-a371042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=bfbbb26e-5034-747b-a80e-a371042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-07-08 10:08:51
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 760_0
+    [amount] => 2863000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10059&PAYMENT_ID=68
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"Kirill333-84@mail.ru","email":"Kirill333-84@mail.ru","phone":"+7 (929) 559-07-38"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 3a86e972-88d6-7457-a523-b30d042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=3a86e972-88d6-7457-a523-b30d042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-07-24 09:20:55
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 762_0
+    [amount] => 280000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10061&PAYMENT_ID=70
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"Lybchic555@icloud.com","email":"Lybchic555@icloud.com","phone":"+7 (920) 744-44-48"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 7b871f96-b5bc-73f6-9020-1bd9042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=7b871f96-b5bc-73f6-9020-1bd9042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-07-27 00:29:55
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 764_0
+    [amount] => 2170000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => Материал смогу принять 28.07.2021г. после 18-00
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10063&PAYMENT_ID=72
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"sagittar2002@mail.ru","email":"sagittar2002@mail.ru","phone":"+7 (916) 682-96-57"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => fc664463-ef2e-76b7-99dc-797f042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=fc664463-ef2e-76b7-99dc-797f042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-07-27 11:25:23
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 765_0
+    [amount] => 680000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10064&PAYMENT_ID=73
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"y.artyukov.mail.ru@yandex.ru","email":"y.artyukov.mail.ru@yandex.ru","phone":"+7 (903) 697-61-67"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 554061d4-e225-7f6e-874c-2eb7042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=554061d4-e225-7f6e-874c-2eb7042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-08-02 19:15:22
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 768_0
+    [amount] => 750000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10067&PAYMENT_ID=76
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"oooskip.pto@gmail.com","email":"oooskip.pto@gmail.com","phone":"+7 (953) 965-90-82"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 0512f3d4-8985-729e-8f65-62fd042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=0512f3d4-8985-729e-8f65-62fd042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-08-11 21:48:20
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 771_1
+    [amount] => 1095000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10070&PAYMENT_ID=79
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"drozd300041@yandex.ru","email":"drozd300041@yandex.ru","phone":"+7 (920) 277-50-23"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => fbe8b4a7-d35c-73a4-bf06-74ef042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=fbe8b4a7-d35c-73a4-bf06-74ef042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-08-11 22:01:41
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => fbe8b4a7-d35c-73a4-bf06-74ef042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"771_1","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":1095000,"currency":"810","date":1628707656820,"orderDescription":"","ip":"176.213.165.242","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (920) 277-50-23"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"WINDOWS"},{"name":"browser_version_param","value":"91.0.4472.135"},{"name":"email","value":"drozd300041@yandex.ru"},{"name":"user_agent","value":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.135 YaBrowser\/21.6.3.757 Yowser\/2.5 Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"USER_FIO","value":"drozd300041@yandex.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"fbe8b4a7-d35c-73a4-bf06-74ef042eaa4d"}],"cardAuthInfo":{"maskedPan":"546901**8110","expiration":"202310","cardholderName":"DMITRII DROZDOV","approvalCode":"232821","paymentSystem":"MASTERCARD","pan":"546901**8110"},"authDateTime":1628708500199,"terminalId":"80004822","authRefNum":"420401785666","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":1095000,"depositedAmount":1095000,"refundedAmount":0},"bankInfo":{"bankName":"SBERBANK OF RUSSIA","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-09-09 20:44:51
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 772_0
+    [amount] => 954000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => Доставка не нужна
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10071&PAYMENT_ID=80
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"mihailkostunin1313@gmail.com","email":"mihailkostunin1313@gmail.com","phone":"+7 (910) 702-89-13"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 8b991c05-e437-7bcb-95cc-23b6042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=8b991c05-e437-7bcb-95cc-23b6042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-09-09 20:46:05
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 8b991c05-e437-7bcb-95cc-23b6042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"772_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":954000,"currency":"810","date":1631209491532,"orderDescription":"\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043d\u0435 \u043d\u0443\u0436\u043d\u0430","ip":"94.28.234.142","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (910) 702-89-13"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=8b991c05-e437-7bcb-95cc-23b6042eaa4d"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"browser_os_param","value":"ANDROID"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_version_param","value":"91.0.4472.164"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; arm_64; Android 10; Redmi Note 8 Pro) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.164 YaApp_Android\/21.66.1 YaSearchBrowser\/21.66.1 BroPP\/1.0 SA\/3 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"email","value":"mihailkostunin1313@gmail.com"},{"name":"USER_FIO","value":"mihailkostunin1313@gmail.com"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"8b991c05-e437-7bcb-95cc-23b6042eaa4d"}],"cardAuthInfo":{"maskedPan":"546966**4341","expiration":"202309","cardholderName":"MIKHAIL KOSTYUNIN","approvalCode":"204023","paymentSystem":"MASTERCARD","pan":"546966**4341"},"authDateTime":1631209565034,"terminalId":"80004822","authRefNum":"420939107263","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":954000,"depositedAmount":954000,"refundedAmount":0},"bankInfo":{"bankName":"SBERBANK OF RUSSIA","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-09-09 20:46:20
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 8b991c05-e437-7bcb-95cc-23b6042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"772_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":954000,"currency":"810","date":1631209491532,"orderDescription":"\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043d\u0435 \u043d\u0443\u0436\u043d\u0430","ip":"94.28.234.142","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (910) 702-89-13"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=8b991c05-e437-7bcb-95cc-23b6042eaa4d"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"browser_os_param","value":"ANDROID"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_version_param","value":"91.0.4472.164"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; arm_64; Android 10; Redmi Note 8 Pro) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.164 YaApp_Android\/21.66.1 YaSearchBrowser\/21.66.1 BroPP\/1.0 SA\/3 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"email","value":"mihailkostunin1313@gmail.com"},{"name":"USER_FIO","value":"mihailkostunin1313@gmail.com"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"8b991c05-e437-7bcb-95cc-23b6042eaa4d"}],"cardAuthInfo":{"maskedPan":"546966**4341","expiration":"202309","cardholderName":"MIKHAIL KOSTYUNIN","approvalCode":"204023","paymentSystem":"MASTERCARD","pan":"546966**4341"},"authDateTime":1631209565034,"terminalId":"80004822","authRefNum":"420939107263","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":954000,"depositedAmount":954000,"refundedAmount":0},"bankInfo":{"bankName":"SBERBANK OF RUSSIA","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-09-26 11:12:19
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 773_0
+    [amount] => 2714000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10072&PAYMENT_ID=81
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"vovap67@yandex.ru","email":"vovap67@yandex.ru","phone":"+7 (895) 344-06-39"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => c53cc831-d151-79f6-b671-2fa5042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=c53cc831-d151-79f6-b671-2fa5042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-09-26 12:08:59
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 774_0
+    [amount] => 2741000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10073&PAYMENT_ID=82
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"vova_pvp@mail.ru","email":"vova_pvp@mail.ru","phone":"+7 (953) 440-63-90"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 32a2f52a-94d5-72d0-a09a-6f09042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=32a2f52a-94d5-72d0-a09a-6f09042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-09-26 12:14:04
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 32a2f52a-94d5-72d0-a09a-6f09042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"774_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":2741000,"currency":"810","date":1632647339480,"orderDescription":"","ip":"178.252.209.32","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=32a2f52a-94d5-72d0-a09a-6f09042eaa4d"},{"name":"phone","value":"+7 (953) 440-63-90"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"ANDROID"},{"name":"browser_version_param","value":"92.0.4515.159"},{"name":"email","value":"vova_pvp@mail.ru"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; arm_64; Android 11; SM-P610) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/92.0.4515.159 YaApp_Android\/21.81\/apad YaSearchBrowser\/21.81\/apad BroPP\/1.0 SA\/3 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"USER_FIO","value":"vova_pvp@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"32a2f52a-94d5-72d0-a09a-6f09042eaa4d"}],"cardAuthInfo":{"maskedPan":"546966**9736","expiration":"202111","cardholderName":"VLADIMIR PAVLOV","approvalCode":"261303","paymentSystem":"MASTERCARD","pan":"546966**9736"},"authDateTime":1632647644022,"terminalId":"80004822","authRefNum":"421261840058","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":2741000,"depositedAmount":2741000,"refundedAmount":0},"bankInfo":{"bankName":"SBERBANK OF RUSSIA","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-09-26 12:17:07
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 32a2f52a-94d5-72d0-a09a-6f09042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"774_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":2741000,"currency":"810","date":1632647339480,"orderDescription":"","ip":"178.252.209.32","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=32a2f52a-94d5-72d0-a09a-6f09042eaa4d"},{"name":"phone","value":"+7 (953) 440-63-90"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"ANDROID"},{"name":"browser_version_param","value":"92.0.4515.159"},{"name":"email","value":"vova_pvp@mail.ru"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; arm_64; Android 11; SM-P610) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/92.0.4515.159 YaApp_Android\/21.81\/apad YaSearchBrowser\/21.81\/apad BroPP\/1.0 SA\/3 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"USER_FIO","value":"vova_pvp@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"32a2f52a-94d5-72d0-a09a-6f09042eaa4d"}],"cardAuthInfo":{"maskedPan":"546966**9736","expiration":"202111","cardholderName":"VLADIMIR PAVLOV","approvalCode":"261303","paymentSystem":"MASTERCARD","pan":"546966**9736"},"authDateTime":1632647644022,"terminalId":"80004822","authRefNum":"421261840058","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":2741000,"depositedAmount":2741000,"refundedAmount":0},"bankInfo":{"bankName":"SBERBANK OF RUSSIA","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-09-30 09:47:19
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 775_0
+    [amount] => 18175000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => Скидочку сделаете?
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10074&PAYMENT_ID=83
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"mda-80@mail.ru","email":"mda-80@mail.ru","phone":"+7 (926) 451-52-03"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 2197a751-46da-79d9-a628-65bb042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=2197a751-46da-79d9-a628-65bb042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-10-21 13:37:48
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 779_0
+    [amount] => 270000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10078&PAYMENT_ID=87
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"Kucherovatak@yandex.ru","email":"Kucherovatak@yandex.ru","phone":"+7 (920) 770-47-97"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 6b805902-f2a3-766b-ad02-59dc042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=6b805902-f2a3-766b-ad02-59dc042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-10-21 13:48:53
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 780_0
+    [amount] => 270000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10079&PAYMENT_ID=88
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"Kucherovatak@yandex.ru","email":"Kucherovatak@yandex.ru","phone":"+7 (950) 911-51-23"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => c0367b80-bb74-7ffb-8046-da15042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=c0367b80-bb74-7ffb-8046-da15042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-10-25 14:56:57
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 781_0
+    [amount] => 1740000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10080&PAYMENT_ID=89
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"smoki-mo@mail.ru","email":"smoki-mo@mail.ru","phone":"+7 (916) 433-89-79"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => a22a0b57-cfe9-7ec2-89d4-0d1c042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=a22a0b57-cfe9-7ec2-89d4-0d1c042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2021-10-25 15:16:58
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => a22a0b57-cfe9-7ec2-89d4-0d1c042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"781_0","orderStatus":6,"actionCode":-2007,"actionCodeDescription":"\u0418\u0441\u0442\u0435\u043a \u0441\u0440\u043e\u043a \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0432\u0432\u043e\u0434\u0430 \u0434\u0430\u043d\u043d\u044b\u0445.","amount":1740000,"currency":"810","date":1635163017458,"orderDescription":"","merchantOrderParams":[{"name":"phone","value":"+7 (916) 433-89-79"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=a22a0b57-cfe9-7ec2-89d4-0d1c042eaa4d"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"email","value":"smoki-mo@mail.ru"},{"name":"USER_FIO","value":"smoki-mo@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"a22a0b57-cfe9-7ec2-89d4-0d1c042eaa4d"}],"terminalId":"80004822","paymentAmountInfo":{"paymentState":"DECLINED","approvedAmount":0,"depositedAmount":0,"refundedAmount":0},"bankInfo":{"bankCountryCode":"UNKNOWN","bankCountryName":"\u003C\u041d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u003E"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-10-28 15:14:33
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 782_0
+    [amount] => 299700
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10081&PAYMENT_ID=90
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"test@test.ru","email":"test@test.ru","phone":"+7 (111) 111-11-11"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 95788461-788c-777d-ba4b-11cd042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=95788461-788c-777d-ba4b-11cd042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-11-10 05:23:09
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 786_0
+    [amount] => 2300000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10085&PAYMENT_ID=94
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"papava@mail.ru","email":"papava@mail.ru","phone":"+7 (919) 070-28-98"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => c9be41f7-d7f2-7084-ade9-7045042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=c9be41f7-d7f2-7084-ade9-7045042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2021-11-21 23:52:28
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 788_0
+    [amount] => 2200000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10087&PAYMENT_ID=96
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"seurn@mail.ru","email":"seurn@mail.ru","phone":"+7 (977) 497-10-90"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 4f63140f-09a2-7a98-9221-db72042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=4f63140f-09a2-7a98-9221-db72042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-02-02 15:02:50
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 791_0
+    [amount] => 837000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10090&PAYMENT_ID=99
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"7320412@mail.ru","email":"7320412@mail.ru","phone":"+7 (950) 928-03-08"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 93609cfc-4bfc-77e2-8b16-4571042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=93609cfc-4bfc-77e2-8b16-4571042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-02-15 13:34:57
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 794_0
+    [amount] => 924000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10093&PAYMENT_ID=102
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"smoki-mo@mail.ru","email":"smoki-mo@mail.ru","phone":"+7 (916) 433-89-79"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 4a07a6a4-0057-75ba-b221-7529042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=4a07a6a4-0057-75ba-b221-7529042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-03-05 18:14:18
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 796_0
+    [amount] => 8397600
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => Хотелось бы присутствовать при загрузке товара
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10095&PAYMENT_ID=104
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"oooskip.pto@gmail.com","email":"oooskip.pto@gmail.com","phone":"+7 (953) 965-90-82"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => a0f3e7d1-2cb3-7f9c-b77b-b92b042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=a0f3e7d1-2cb3-7f9c-b77b-b92b042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2022-03-05 18:24:40
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => a0f3e7d1-2cb3-7f9c-b77b-b92b042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"796_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":8397600,"currency":"810","date":1646493258750,"orderDescription":"\u0425\u043e\u0442\u0435\u043b\u043e\u0441\u044c \u0431\u044b \u043f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u043f\u0440\u0438 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0435 \u0442\u043e\u0432\u0430\u0440\u0430","ip":"176.59.38.243","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (953) 965-90-82"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=a0f3e7d1-2cb3-7f9c-b77b-b92b042eaa4d"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"ANDROID"},{"name":"browser_version_param","value":"98.0.4758.101"},{"name":"email","value":"oooskip.pto@gmail.com"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; Android 11; vivo 1906) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/98.0.4758.101 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"USER_FIO","value":"oooskip.pto@gmail.com"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"a0f3e7d1-2cb3-7f9c-b77b-b92b042eaa4d"}],"cardAuthInfo":{"maskedPan":"479004**7538","expiration":"202308","cardholderName":"SVETLANA","approvalCode":"7VW7FE","paymentSystem":"VISA","pan":"479004**7538"},"authDateTime":1646493880273,"terminalId":"80004822","authRefNum":"424426499493","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":8397600,"depositedAmount":8397600,"refundedAmount":0},"bankInfo":{"bankName":"Joint Stock Company Alfa-Bank","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-03-10 10:30:35
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 797_0
+    [amount] => 532000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10096&PAYMENT_ID=105
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"Kul.ig@yandex.ru","email":"Kul.ig@yandex.ru","phone":"+7 (910) 945-98-15"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => cb380c15-9f41-7e58-b722-2460042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=cb380c15-9f41-7e58-b722-2460042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-03-10 10:33:35
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 798_0
+    [amount] => 532000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10097&PAYMENT_ID=106
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"Kul.ig@yandex.ru","email":"Kul.ig@yandex.ru","phone":"+7 (910) 945-98-15"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2022-03-10 10:35:19
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"798_0","orderStatus":6,"actionCode":-2013,"actionCodeDescription":"\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u044f \u043e\u0442\u043a\u043b\u043e\u043d\u0435\u043d\u0430. \u041f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u0432\u0432\u0435\u0434\u0435\u043d\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u043d\u0430 \u0441\u0447\u0451\u0442\u0435 \u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044e.","amount":532000,"currency":"810","date":1646897615442,"orderDescription":"","ip":"94.28.238.55","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (910) 945-98-15"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"ANDROID"},{"name":"browser_version_param","value":"94.0.4606.85"},{"name":"email","value":"Kul.ig@yandex.ru"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; arm_64; Android 8.1.0; BKK-L21) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 YaApp_Android\/21.113.1 YaSearchBrowser\/21.113.1 BroPP\/1.0 SA\/3 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"USER_FIO","value":"Kul.ig@yandex.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d"}],"cardAuthInfo":{"maskedPan":"220220**6217","expiration":"202402","cardholderName":"IGOR KULYGIN","paymentSystem":"MIR","product":"MIR","pan":"220220**6217"},"terminalId":"80004822","paymentAmountInfo":{"paymentState":"DECLINED","approvedAmount":0,"depositedAmount":0,"refundedAmount":0},"bankInfo":{"bankName":"Sberbank","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2022-03-10 10:35:30
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"798_0","orderStatus":6,"actionCode":-2013,"actionCodeDescription":"\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u044f \u043e\u0442\u043a\u043b\u043e\u043d\u0435\u043d\u0430. \u041f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u0432\u0432\u0435\u0434\u0435\u043d\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u043d\u0430 \u0441\u0447\u0451\u0442\u0435 \u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044e.","amount":532000,"currency":"810","date":1646897615442,"orderDescription":"","ip":"94.28.238.55","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (910) 945-98-15"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"ANDROID"},{"name":"browser_version_param","value":"94.0.4606.85"},{"name":"email","value":"Kul.ig@yandex.ru"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; arm_64; Android 8.1.0; BKK-L21) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 YaApp_Android\/21.113.1 YaSearchBrowser\/21.113.1 BroPP\/1.0 SA\/3 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"USER_FIO","value":"Kul.ig@yandex.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d"}],"cardAuthInfo":{"maskedPan":"220220**6217","expiration":"202402","cardholderName":"IGOR KULYGIN","paymentSystem":"MIR","product":"MIR","pan":"220220**6217"},"terminalId":"80004822","paymentAmountInfo":{"paymentState":"DECLINED","approvedAmount":0,"depositedAmount":0,"refundedAmount":0},"bankInfo":{"bankName":"Sberbank","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2022-03-10 10:37:18
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"798_0","orderStatus":6,"actionCode":-2013,"actionCodeDescription":"\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u044f \u043e\u0442\u043a\u043b\u043e\u043d\u0435\u043d\u0430. \u041f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u0432\u0432\u0435\u0434\u0435\u043d\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u043d\u0430 \u0441\u0447\u0451\u0442\u0435 \u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044e.","amount":532000,"currency":"810","date":1646897615442,"orderDescription":"","ip":"94.28.238.55","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (910) 945-98-15"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"ANDROID"},{"name":"browser_version_param","value":"94.0.4606.85"},{"name":"email","value":"Kul.ig@yandex.ru"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; arm_64; Android 8.1.0; BKK-L21) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 YaApp_Android\/21.113.1 YaSearchBrowser\/21.113.1 BroPP\/1.0 SA\/3 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"USER_FIO","value":"Kul.ig@yandex.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"68ff7b8e-7cf7-7ffa-a52e-f809042eaa4d"}],"cardAuthInfo":{"maskedPan":"220220**6217","expiration":"202402","cardholderName":"IGOR KULYGIN","paymentSystem":"MIR","product":"MIR","pan":"220220**6217"},"terminalId":"80004822","paymentAmountInfo":{"paymentState":"DECLINED","approvedAmount":0,"depositedAmount":0,"refundedAmount":0},"bankInfo":{"bankName":"Sberbank","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-03-27 22:19:20
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 801_0
+    [amount] => 1995000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10100&PAYMENT_ID=109
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"bdadmitru@mail.ru","email":"bdadmitru@mail.ru","phone":"+7 (905) 622-48-61"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => e067a1de-7c32-77f1-925f-0da2042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=e067a1de-7c32-77f1-925f-0da2042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-04-18 10:10:08
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 803_0
+    [amount] => 370000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10102&PAYMENT_ID=111
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"esp-m-lukashkin@yandex.ru","email":"esp-m-lukashkin@yandex.ru","phone":"+7 (910) 582-19-00"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => b242c967-2da2-7c5f-bda9-a67e042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=b242c967-2da2-7c5f-bda9-a67e042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2022-04-18 10:13:27
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => b242c967-2da2-7c5f-bda9-a67e042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"803_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":370000,"currency":"810","date":1650265808078,"orderDescription":"","ip":"212.35.178.229","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"binProductCategory","value":"DEBIT"},{"name":"phone","value":"+7 (910) 582-19-00"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=b242c967-2da2-7c5f-bda9-a67e042eaa4d"},{"name":"binProductCode","value":"F"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_os_param","value":"WINDOWS"},{"name":"browser_version_param","value":"98.0.4758.141"},{"name":"user_agent","value":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/98.0.4758.141 YaBrowser\/22.3.2.644 Yowser\/2.5 Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"email","value":"esp-m-lukashkin@yandex.ru"},{"name":"USER_FIO","value":"esp-m-lukashkin@yandex.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"b242c967-2da2-7c5f-bda9-a67e042eaa4d"}],"cardAuthInfo":{"maskedPan":"427666**5519","expiration":"202405","cardholderName":"IGOR LUKASHKIN","approvalCode":"290498","paymentSystem":"VISA","pan":"427666**5519"},"authDateTime":1650266006206,"terminalId":"80004822","authRefNum":"210807606568","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":370000,"depositedAmount":370000,"refundedAmount":0},"bankInfo":{"bankName":"SBERBANK of Russia","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-04-19 15:01:30
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 805_0
+    [amount] => 1725000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10104&PAYMENT_ID=113
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"zmd2011@yandex.ru","email":"zmd2011@yandex.ru","phone":"+7 (910) 165-84-23"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => e02022dc-3f17-7a31-8e96-d109042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=e02022dc-3f17-7a31-8e96-d109042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-06-01 09:05:53
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 807_0
+    [amount] => 3265000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10106&PAYMENT_ID=115
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"ps40@list.ru","email":"ps40@list.ru","phone":"+7 (953) 952-90-65"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 22d4babf-ea2e-761e-ae87-0557042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=22d4babf-ea2e-761e-ae87-0557042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-06-14 08:40:26
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 809_0
+    [amount] => 2211000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10108&PAYMENT_ID=117
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"besnyak@mail.ru","email":"besnyak@mail.ru","phone":"+7 (926) 255-51-14"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => 1e9bd85d-41cf-7131-b0ba-6899042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=1e9bd85d-41cf-7131-b0ba-6899042eaa4d
+)
+
+
+
+RESULT PAYMENT ORDER
+----------------------------
+DATE: 2022-06-14 08:42:20
+URL https://pay.alfabank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [orderId] => 1e9bd85d-41cf-7131-b0ba-6899042eaa4d
+)
+
+RESPONSE: 
+{"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"809_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":2211000,"currency":"810","date":1655185226129,"orderDescription":"","ip":"176.59.37.1","merchantOrderParams":[{"name":"browser_language_param","value":"ru"},{"name":"phone","value":"+7 (926) 255-51-14"},{"name":"formUrl","value":"https:\/\/pay.alfabank.ru\/payment\/merchants\/alfapage\/payment_ru.html?mdOrder=1e9bd85d-41cf-7131-b0ba-6899042eaa4d"},{"name":"binProductCode","value":"NPD"},{"name":"CMS","value":"Bitrix 20.5.393"},{"name":"browser_os_param","value":"ANDROID"},{"name":"Module-Version","value":"1.1.5"},{"name":"browser_version_param","value":"100.0.4896.160"},{"name":"user_agent","value":"Mozilla\/5.0 (Linux; arm_64; Android 11; SM-A525F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/100.0.4896.160 YaApp_Android\/22.54.1 YaSearchBrowser\/22.54.1 BroPP\/1.0 SA\/3 Mobile Safari\/537.36"},{"name":"browser_name_param","value":"CHROME"},{"name":"email","value":"besnyak@mail.ru"},{"name":"USER_FIO","value":"besnyak@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"1e9bd85d-41cf-7131-b0ba-6899042eaa4d"}],"cardAuthInfo":{"maskedPan":"220038**4305","expiration":"202409","cardholderName":"EKATERINA GLAZKOVA","approvalCode":"341384","paymentSystem":"MIR","product":"MIR","pan":"220038**4305"},"authDateTime":1655185338737,"terminalId":"80004822","authRefNum":"216505261349","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":2211000,"depositedAmount":2211000,"refundedAmount":0},"bankInfo":{"bankName":"Rosselkhozbank","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"},"chargeback":false}
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-06-23 03:42:04
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 810_0
+    [amount] => 2145000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => 
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10109&PAYMENT_ID=118
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"79132592801@yandex.ru","email":"79132592801@yandex.ru","phone":"+7 (913) 259-28-01"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => eaf1e30e-40f2-7f6a-a813-2623042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=eaf1e30e-40f2-7f6a-a813-2623042eaa4d
+)
+
+
+
+REGISTER NEW ORDER
+----------------------------
+DATE: 2022-07-04 09:41:51
+URL https://pay.alfabank.ru/payment/rest/
+METHOD register.do
+DATA: 
+Array
+(
+    [orderNumber] => 813_0
+    [amount] => 900000
+    [userName] => tuldom-api
+    [password] => 7nyg7hgoC{Q
+    [description] => Самовывоз
+    [returnUrl] => https://tuldom.ru/bitrix/tools/sale_ps_result.php?PAYMENT=ALFABANK&ORDER_ID=10112&PAYMENT_ID=121
+    [CMS] => Bitrix 20.5.393
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.5.393","Module-Version":"1.1.5","USER_FIO":"eduardmosin@mail.ru","email":"eduardmosin@mail.ru","phone":"+7 (920) 277-63-63"}
+)
+
+RESPONSE: 
+Array
+(
+    [orderId] => b9f03e2c-4586-7af6-beaa-f702042eaa4d
+    [formUrl] => https://pay.alfabank.ru/payment/merchants/alfapage/payment_ru.html?mdOrder=b9f03e2c-4586-7af6-beaa-f702042eaa4d
+)
+
+
+

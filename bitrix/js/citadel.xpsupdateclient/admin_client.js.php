@@ -1,0 +1,1 @@
+<? header("Content-Type: application/javascript"); echo file_get_contents("/var/www/u0004063/data/www/tuldom.ru/bitrix/modules/citadel.xpsupdateclient/install/js/admin_client.js");
